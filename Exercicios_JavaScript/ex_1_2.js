@@ -5,7 +5,7 @@ prompt = prompt();
 
 const col = 80;
 
-console.log(`Exercçio 1 - Operações matemáticas básicas.`);
+console.log(`Exercício 1 - Operações matemáticas básicas.`);
 let n1 = prompt('Digite o Número 1: ');
 let n2 = prompt('Digite o Número 2: ');
 let n3 = prompt('Digite o Número 3: ');
